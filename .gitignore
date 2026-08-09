@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+agentic-bank-hidden/
+documents/
+documents.zip
+ground_truth.json
+master_ledger_2025.csv
+final_submission_debug_classified*.json
+submission_result*.json
+run_log.txt
